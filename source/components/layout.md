@@ -39,7 +39,7 @@ Below is an example of a Layout, which contains all possible elements:
 
   <!-- Left Side Panel -->
   <div slot="left">
-    <q-list no-border link inset-delimiter>
+    <q-list no-border link inset-separator>
       <q-list-header>Essential Links</q-list-header>
       <q-item>
         <q-item-side icon="school" />
